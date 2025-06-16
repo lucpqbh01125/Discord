@@ -1,0 +1,13 @@
+# Bỏ môi trường ảo
+venv/
+
+# Bỏ file tạm & compiled
+__pycache__/
+*.pyc
+
+# Bỏ file chứa thông tin nhạy cảm
+.env
+*.log
+
+# Tuỳ chọn: Bỏ file lưu trạng thái tạm
+sent_messages.json
