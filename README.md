@@ -1,5 +1,4 @@
 test-discord/
-
 │
 ├── bot.py                 
 ├── requirements.txt       
